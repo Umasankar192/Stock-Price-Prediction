@@ -7,3 +7,7 @@ Proposed Method
 2.  Linear Regression 
 3.  3. KNN 
 4.  4. LSTM
+
+
+Dataset Sourse
+Yahoo Finiance 
