@@ -3,10 +3,7 @@ The aim of the project is to help you make a smarter long-term or short-term sto
 investment decision by analyzing historical data and predicting the stock’s future price.
 
 Proposed Method 
-1. Moving Average 
-2.  Linear Regression 
-3.  3. KNN 
-4.  4. LSTM
+1. ANN
 
 
 Dataset Sourse
